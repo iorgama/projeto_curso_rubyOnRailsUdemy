@@ -1,24 +1,3 @@
-# README
+# Projeto desenvolvido para o curso Ruby on Rails 5.x - Do início ao fim!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Objetivo: desenvolver um app para cadastrar/editar/listar/excluir questões, bem como possibilitar ao usuário responder e realizar o acompanhamento das questões respondidas. Além de contar com áreas administrativas e a do perfil do usuário.  
